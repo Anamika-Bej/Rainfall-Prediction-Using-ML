@@ -131,11 +131,12 @@ The best parameters obtained were:
 ## 9. Project Structure
 
 ```text
-Rainfall-Prediction-Using-ML/
+ML Project/
 │
-├── ML Project(Rainfall-Prediction-Using-ML).ipynb
+├── rainfall_prediction.ipynb
 ├── README.md
-└── kolkata_weather_jan_june_2026.csv
+├── rainfall_model.pkl
+└── rainfall_dataset.csv
 ```
 
 ## 10. Future Scope
